@@ -1,0 +1,8 @@
+[
+        {"id": 1, "name": "Apple", "price": 5, "image": "apple.jpg", "description": "50g fresh apple"},
+        {"id": 2, "name": "Orange", "price": 3, "image": "orange.jpg", "description": "50g fresh orange"},
+        {"id": 3, "name": "Mango", "price": 4, "image": "mango.jpg", "description": "500g fresh mango"},
+        {"id": 4, "name": "Watermelon", "price": 20, "image": "watermelon.jpg", "description": "2kg fresh watermelon"},
+        {"id": 5, "name": "Blueberry", "price": 10, "image": "blueberry.jpg", "description": "50g fresh blueberry"},
+        {"id": 6, "name": "Radish", "price": 5, "image": "radish.jpg", "description": "1kg fresh radish"}
+    ]
