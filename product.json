@@ -5,4 +5,4 @@
         {"id": 4, "name": "Watermelon", "price": 20, "image": "watermelon.jpg", "description": "2kg fresh watermelon"},
         {"id": 5, "name": "Blueberry", "price": 10, "image": "blueberry.jpg", "description": "50g fresh blueberry"},
         {"id": 6, "name": "Radish", "price": 5, "image": "radish.jpg", "description": "1kg fresh radish"}
-    ]
+]
